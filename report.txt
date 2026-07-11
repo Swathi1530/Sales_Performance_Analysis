@@ -1,0 +1,24 @@
+SALES PERFORMANCE ANALYSIS REPORT
+========================================
+
+Total Sales : ₹3013000
+Total Quantity Sold : 356
+
+Top Selling Product : Laptop
+Sales Amount : ₹1250000
+
+Best Performing Category : Electronics
+Category Sales : ₹2146000
+
+Monthly Sales
+------------------------------
+April : ₹332500
+August : ₹338700
+February : ₹229800
+January : ₹231100
+July : ₹296600
+June : ₹366500
+March : ₹281200
+May : ₹277300
+October : ₹372500
+September : ₹286800
